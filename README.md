@@ -15,3 +15,5 @@ python koch.py``` to get a I/O interface
 ![Prompt choice Two](./markdown/prompt_two.png) 
 -Once the drawing is done, you will be prompted again to select a desired fractal
 # Hope you like it!!
+Here is my favorite one
+![kochAntiSnowFlake](./markdown/antisnowflake.jpg)
